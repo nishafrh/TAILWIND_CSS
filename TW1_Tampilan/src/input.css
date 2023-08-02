@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.radial-gradient {
+  background: radial-gradient(ellipse at center, #f00 0%, #00f 100%);
+}
+
+.radial-blue {
+    background: radial-gradient(lightyellow, skyblue)
+}
